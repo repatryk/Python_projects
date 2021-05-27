@@ -1,0 +1,26 @@
+[
+  {
+    "pytanie" : "Kto zdobyl mistrzostwo Hiszpanii  LaLiga w 2021r.",
+    "a": "Barcelona",
+    "b": "Atletico Madryt",
+    "c":  "Sevilla",
+    "d": "Real Madryt",
+    "prawidlowa_odpowiedz": "b"
+  },
+  {
+    "pytanie" : "Kto jest faworytem  Roland Garros w 2021r?",
+    "a": "Nadal",
+    "b": "Djokovic",
+    "c": "Tsitsipas",
+    "d": "Hurkacz",
+    "prawidlowa_odpowiedz": "a"
+  },
+   {
+    "pytanie" : "Najlepszy serial pierwszej polowy 2021 roku to ?",
+    "a": "The Walking Dead",
+    "b": "The Flash",
+    "c": "Kobra Kai",
+    "d": "Shadow and Bone",
+    "prawidlowa_odpowiedz": "d"
+  }
+]
